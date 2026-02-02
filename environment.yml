@@ -1,0 +1,14 @@
+name: trading-hedge-fund
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tensorflow
+  - pyarrow
+  - xgboost
